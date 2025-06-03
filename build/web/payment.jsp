@@ -13,6 +13,7 @@
         <title>The palatin - Payment</title>
         <link rel="icon" href="img/core-img/favicon.ico">
         <link rel="stylesheet" href="css/payment.css">
+        <!--sbvhsf-->
     </head>
     <body>
         <div class="container">
